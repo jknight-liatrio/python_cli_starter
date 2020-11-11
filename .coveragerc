@@ -1,0 +1,8 @@
+[run]
+branch = True
+
+[paths]
+# Files with these prefixes are treated as identical for the purposes of coverage combine
+source =
+    # The first path is the name to which all paths get unified
+    myscript
