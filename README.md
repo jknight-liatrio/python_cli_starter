@@ -4,6 +4,19 @@
 This an example of a "properly" packaged python module using the Click library to build a cli tool.
 
 
+## Setup
+
+* Install Python 3.x (currently latest is 3.9)
+* Setup your damn debugger!
+    
+    Debugging with print statements is for people who don't know better. Just try it out.
+    
+    Here are some links that will help.
+    
+    * [vscode](https://code.visualstudio.com/docs/python/testing) - It might be a little frustrating but it's worth it, I promise.
+    * [intellij](https://www.jetbrains.com/help/pycharm/part-1-debugging-python-code.html) - My personal favorite. Should just work out of the box.
+    * If you're a "real" programmer and only use command line and vim, try [pdb](https://pymotw.com/3/pdb/) (debugging on hard mode) or [ipdb](https://pypi.org/project/ipdb/) for something a little easier. When that doesn't work, see above.
+
 
 Features
 ----------
